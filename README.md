@@ -9,4 +9,6 @@
 - A natural inquisitive data analyst using data to gain insights and improve business needs. Skilled in Python using packages such as NumPy, Pandas, Matplotlib, SciPy, SymPy, and NLTK. Experience using Excel and MySQL for data cleaning and analysis, presenting results through Tableau. 
 - 👀 I’m interested in astronomy and astrophysics and how data science can be used to analyze results collected from telescopes. 
 - 🌱 I’m currently learning machine learning techniques and algorithms such as kNN, Naive Bayes, and Logistic Regression for predictive analysis. 
-- 📫 How to reach me: calvintsingshing.chan@mail.utoronto.ca, [linkedin.com/in/calvin-ts-chan](linkedin.com/in/calvin-ts-chan) 
+- 📫 How to reach me:
+  - calvintsingshing.chan@mail.utoronto.ca
+  - [linkedin.com/in/calvin-ts-chan](linkedin.com/in/calvin-ts-chan) 
