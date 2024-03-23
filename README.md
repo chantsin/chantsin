@@ -1,16 +1,23 @@
-### Hey there, it's Calvin - I am a Data Scientist! 📊👨‍💻🧠👨‍🔬📈  
+## Hey there, it's Calvin - I am a Data Scientist! 📊👨‍💻🧠👨‍🔬📈  
 
 <!--
 **chantsin/chantsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 Welcome to my GitHub repository!
+
+### About Me
 - 🔭  I am a recent graduate with an Honours Bachelor of Science (HBSc) from the University of Toronto, specialized in Physics & Astrophysics and minored in Psychology
 - 🧐  I am a natural deep learner and thinker, using data to gain insights and make predictions for your business needs. Skilled in Python using packages such as NumPy, Pandas, Matplotlib, SciPy, Statsmodels, SymPy. Experience using Excel and MySQL for data cleaning and analysis, and data visualizations through Tableau. As an inquisitive data analyst I have experience performing difference types of data analyses, including but not limited to, statistical, time-series, and sentiment analysis. 
 - 🌱 Currently I am a Data Scientist at BrainStation learning about Machine Learning and Big Data, using tools such as Scikit-Learn, TensorFlow, Keras and more. 
+
+### Current Projects
+- [ECG Signal Classification via Fourier Transforms](https://github.com/chantsin/ecg-classification-via-fft/tree/main)
+
+### Contact
 - 📫 For further inquiries, you can reach me through my email or LinkedIn page:
-  - calvintsingshing.chan@mail.utoronto.ca
-  - [linkedin.com/in/calvin-ts-chan](linkedin.com/in/calvin-ts-chan)
+  - Email: calvintsingshing.chan@mail.utoronto.ca
+  - LinkedIn: [linkedin.com/in/calvin-ts-chan](linkedin.com/in/calvin-ts-chan)
  
 ### Technical Skills
 <!-- 
