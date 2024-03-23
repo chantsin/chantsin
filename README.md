@@ -13,6 +13,8 @@ Welcome to my GitHub repository!
 
 ### Current Projects
 - [ECG Signal Classification via Fourier Transforms](https://github.com/chantsin/ecg-classification-via-fft/tree/main)
+  - Classifying ECG signals using various models, from simple Logistic Regression to Autoencoders
+  - Utilizing properties of Fourier Transforms to clean noisy signals
 
 ### Contact
 - 📫 For further inquiries, you can reach me through my email or LinkedIn page:
