@@ -15,11 +15,6 @@ Welcome to my GitHub repository!
 - [ECG Signal Classification via Fourier Transforms](https://github.com/chantsin/ecg-classification-via-fft/tree/main)
   - Classifying ECG signals using various models, from simple Logistic Regression to Autoencoders
   - Utilizing properties of Fourier Transforms to clean noisy signals
-
-### Contact
-- 📫 For further inquiries, you can reach me through my email or LinkedIn page:
-  - Email: calvintsingshing.chan@mail.utoronto.ca
-  - LinkedIn: [linkedin.com/in/calvin-ts-chan](linkedin.com/in/calvin-ts-chan)
  
 ### Technical Skills
 <!-- 
@@ -54,3 +49,8 @@ copies or substantial portions of the Software.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Contact
+- 📫 For further inquiries, you can reach me through my email or LinkedIn page:
+  - Email: calvintsingshing.chan@mail.utoronto.ca
+  - LinkedIn: [linkedin.com/in/calvin-ts-chan](linkedin.com/in/calvin-ts-chan)
