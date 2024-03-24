@@ -8,7 +8,7 @@ Welcome to my GitHub repository!
 
 ### About Me
 - 🔭  I am a recent graduate with an Honours Bachelor of Science (HBSc) from the University of Toronto, specialized in Physics & Astrophysics and minored in Psychology
-- 🧐  I am a natural deep learner and thinker, using data to gain insights and make predictions for your business needs. Skilled in Python using packages such as NumPy, Pandas, Matplotlib, SciPy, Statsmodels, SymPy. Experience using Excel and MySQL for data cleaning and analysis, and data visualizations through Tableau. As an inquisitive data analyst I have experience performing difference types of data analyses, including but not limited to, statistical, time-series, and sentiment analysis. 
+- 🧐  I am a natural deep thinker and learner, using data to gain insights and make predictions for your business needs. Skilled in Python using packages such as NumPy, Pandas, Matplotlib, SciPy, Statsmodels, SymPy. Experience using Excel and MySQL for data cleaning and analysis, and data visualizations through Tableau. As an inquisitive data analyst I have experience performing difference types of data analyses, including but not limited to, statistical, time-series, and sentiment analysis. 
 - 🌱 Currently I am a Data Scientist at BrainStation learning about Machine Learning and Big Data, using tools such as Scikit-Learn, TensorFlow, Keras and more. 
 
 ### Current Projects
