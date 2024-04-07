@@ -64,3 +64,6 @@ copies or substantial portions of the Software.
 - 📫 For further inquiries, you can reach me through my email or LinkedIn page:
   - Email: calvintsingshing.chan@mail.utoronto.ca
   - LinkedIn: [linkedin.com/in/calvin-ts-chan](linkedin.com/in/calvin-ts-chan)
+  - Resume: [Calvin-Chan-Resume.pdf](https://github.com/chantsin/chantsin/blob/main/Calvin-Chan-Resume.pdf)
+ 
+
