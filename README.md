@@ -13,7 +13,11 @@ Welcome to my GitHub repository!
 
 ### Current Projects
 - [MNIST Digit Recognizer](https://github.com/clem21chan/MNIST_Digit_Recognizer)
-  - Classifying handwritten digits from the MNIST dataset using various machine learning (ML) models
+  - Classifying hand written digits from the MNIST dataset using various machine learning (ML) models
+  - In-depth exploratory data analysis of images looking at a variety of hand writings for numbers and how some numbers are easier to recognize than others
+  - Using baseline Logistic Regression model to set foundation for more advanced modelling
+  - Developing a Convolutional Neural Network as an advanced model for classification
+ 
 - [ECG Signal Classification via Fourier Transforms](https://github.com/chantsin/ecg-classification-via-fft/tree/main)
   - Classifying ECG signals using a deep learning model (Recurrent Neural Network or RNN) 
   - Exploring classical ML models such as Logistic Regression using method of binning as well as deep neural networks like Autoencoders 
