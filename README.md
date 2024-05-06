@@ -12,17 +12,16 @@ Welcome to my GitHub repository!
 - 🧐  I am a natural deep thinker and learner, using data to gain insights and make predictions for your business needs. Skilled in Python using packages such as NumPy, Pandas, Matplotlib, SciPy, Statsmodels, SymPy. Experience using Excel and MySQL for data cleaning and analysis, and data visualizations through Tableau. As an inquisitive data scientist I have experience utilizing different machine learning algorithms to gain insights and predictions. Some of the classical algorithms include linear and logistc regression, kNNs, SVMs, and k-means clustering. I have also used neural networks to look at more complicated data, utilizing different architectures depending on the data type through TensorFlow or Pytorch. As a data analyst, I have performed different types of data analytics, including but not limited to, statistical, time-series, and sentiment analysis, using tools such as Python, SQL and Tableau. 
 
 ### Current Projects
-- [MNIST Digit Recognizer](https://github.com/clem21chan/MNIST_Digit_Recognizer)
-  - Classifying hand written digits from the MNIST dataset using various machine learning (ML) models
-  - In-depth exploratory data analysis of images looking at a variety of hand writings for numbers and how some numbers are easier to recognize than others
-  - Using baseline Logistic Regression model to set foundation for more advanced modelling
-  - Developing a Convolutional Neural Network as an advanced model for classification
- 
 - [ECG Signal Classification via Fourier Transforms](https://github.com/chantsin/ecg-classification-via-fft/tree/main)
   - Classifying ECG signals using a deep learning model (Recurrent Neural Network or RNN) 
   - Exploring classical ML models such as Logistic Regression using method of binning as well as deep neural networks like Autoencoders 
   - Utilizing properties of Fourier Transforms for signal denoising
  
+- [MNIST Digit Recognizer](https://github.com/clem21chan/MNIST_Digit_Recognizer)
+  - Classifying hand written digits from the MNIST dataset using various machine learning (ML) models
+  - In-depth exploratory data analysis of images looking at a variety of hand writings for numbers and how some numbers are easier to recognize than others
+  - Using Logistic Regression model as baseline and Convolutional Neural Network as an advanced model for classification
+
 ### Technical Skills
 <!-- 
 Copyright (c) 2020 Ileriayo Adebiyi
