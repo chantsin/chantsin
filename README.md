@@ -7,10 +7,19 @@
 Welcome to my GitHub repository!
 
 ### About Me
-- 🔭  I am a recent graduate with an Honours Bachelor of Science (HBSc) from the University of Toronto, specialized in Physics & Astrophysics and minored in Psychology
-- 🌱 Currently I am a Data Scientist at BrainStation learning about Machine Learning and Big Data, using tools such as Scikit-Learn, TensorFlow, Keras and more. 
-- 🧐  I am a natural deep thinker and learner, using data to gain insights and make predictions for your business needs. Skilled in Python using packages such as NumPy, Pandas, Matplotlib, SciPy, Statsmodels, SymPy. Experience using Excel and MySQL for data cleaning and analysis, and data visualizations through Tableau. As an inquisitive data scientist I have experience utilizing different machine learning algorithms to gain insights and predictions. Some of the classical algorithms include linear and logistc regression, kNNs, SVMs, and k-means clustering. I have also used neural networks to look at more complicated data, utilizing different architectures depending on the data type through TensorFlow or Pytorch. As a data analyst, I have performed different types of data analytics, including but not limited to, statistical, time-series, and sentiment analysis, using tools such as Python, SQL and Tableau. 
+🌱  I am a Data Scientist with a Data Science Diploma and Data Analytics Certificate from BrainStation.  
+🔭  I have a specialist background in Physics & Astrophysics from the University of Toronto.  
+🧐  I am a natural thinker and learner where I like to solve complex problems by looking at it from different angles.
 
+### Skills
+- I am proficient in data cleaning and data processing using tools such as NumPy and Pandas.
+- I like to draw insights about data through various analytical methods and visualizations, using tools such as MySQL, Pandas, SciPy, Statsmodel, Matplotlib, Seaborn and Tableau. Some of these methods include statistical analysis, time series analysis, hypothesis testing, and sentiment analysis.
+- I am also skilled in modelling using supervised and unsupervised machine learning. From simple Linear and Logistic regression models to advanced ML algorithms such as kNNs, SVMs, and K-means clustering.
+- In addition, I have experience analyzing images, time-series, and text data using neural networks such as MLPs, CNNs, RNNs, and Autoencoders 
+<!--Skilled in Python using packages such as NumPy, Pandas, Matplotlib, SciPy, Statsmodels, SymPy. Experience using Excel and MySQL for data cleaning and analysis, and data visualizations through Tableau. As an inquisitive data scientist I have experience utilizing different machine learning algorithms to gain insights and predictions. Some of the classical algorithms include linear and logistc regression, kNNs, SVMs, and k-means clustering. I have also used neural networks to look at more complicated data, utilizing different architectures depending on the data type through TensorFlow or Pytorch. As a data analyst, I have performed different types of data analytics, including but not limited to, statistical, time-series, and sentiment analysis, using tools such as Python, SQL and Tableau. 
+
+learning about Machine Learning and Big Data, using tools such as Scikit-Learn, TensorFlow, Keras and more.
+-->
 ### Current Projects
 - [ECG Signal Classification via Fourier Transforms](https://github.com/chantsin/ecg-classification-via-fft/tree/main)
   - Classifying ECG signals using a deep learning model (Recurrent Neural Network or RNN) 
