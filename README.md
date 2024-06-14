@@ -26,6 +26,11 @@ Welcome to my GitHub repository!
 learning about Machine Learning and Big Data, using tools such as Scikit-Learn, TensorFlow, Keras and more.
 -->
 ### Current Projects
+- [Goodreads Book Review](https://github.com/chantsin/Goodreads_Book_Reviews/tree/main)
+  - A comprehensive analysis of over 1.3 million book reviews from Goodreads
+  - Perform sentiment analysis on reviews, classifying them as positive, negative, or neutral using a variety of machine learning algorithms
+  - ML algorithms used including Decision Tree, Random Forest, and XGBoost
+ 
 - [ECG Signal Classification via Fourier Transforms](https://github.com/chantsin/ecg-classification-via-fft/tree/main)
   - Classifying ECG signals using a deep learning model (Recurrent Neural Network or RNN) 
   - Exploring classical ML models such as Logistic Regression using method of binning as well as deep neural networks like Autoencoders 
