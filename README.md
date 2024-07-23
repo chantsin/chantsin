@@ -19,8 +19,8 @@ Welcome to my GitHub repository!
 - I have completed a Natural Language Processing (NLP) project analyzing movie review data using a Lexicon-based sentiment analyzer. 
 
 ### Hobbies
-- During my free time I like to go out on hikes, take my two huskies on walks, and play sports
-- Having been in Taekwondo most of my childhood, during my free time now I like to go cycling, play badminton, and occasionally go bouldering
+- During my free time I like to go out on hikes, take my two huskies on walks, and play sports.
+- Having been in Taekwondo most of my childhood, during my free time now I like to go cycling, play badminton, and occasionally go bouldering.
 
 <!--Skilled in Python using packages such as NumPy, Pandas, Matplotlib, SciPy, Statsmodels, SymPy. Experience using Excel and MySQL for data cleaning and analysis, and data visualizations through Tableau. As an inquisitive data scientist I have experience utilizing different machine learning algorithms to gain insights and predictions. Some of the classical algorithms include linear and logistc regression, kNNs, SVMs, and k-means clustering. I have also used neural networks to look at more complicated data, utilizing different architectures depending on the data type through TensorFlow or Pytorch. As a data analyst, I have performed different types of data analytics, including but not limited to, statistical, time-series, and sentiment analysis, using tools such as Python, SQL and Tableau. 
 
@@ -42,6 +42,12 @@ learning about Machine Learning and Big Data, using tools such as Scikit-Learn, 
   - Classifying hand written digits from the MNIST dataset using various machine learning (ML) models
   - In-depth exploratory data analysis of images looking at a variety of hand writings for numbers and how some numbers are easier to recognize than others
   - Using Logistic Regression model as baseline and Convolutional Neural Network as an advanced model for classification
+ 
+- [Letterboxd Movie Review](https://github.com/chantsin/Letterboxd_Project/tree/main)
+  - Analyzing movie review data to draw valuable business insights for professionals in the film industry
+  - Displayed analytical findings through data visualizations and dashboard in Tableau
+  - Sentiment analysis through Lexicon-based NLP technique using NLTK library in Python 
+
 
 ### Technical Skills
 <!-- 
