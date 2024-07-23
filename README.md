@@ -16,6 +16,7 @@ Welcome to my GitHub repository!
 - I like to draw insights about data through various analytical methods and visualizations, using tools such as MySQL, Pandas, SciPy, Statsmodel, Matplotlib, Seaborn and Tableau. Some of these methods include statistical analysis, time series analysis, hypothesis testing, and sentiment analysis.
 - I am also skilled in modelling using supervised and unsupervised machine learning. From simple Linear and Logistic regression models to advanced ML algorithms such as kNNs, SVMs, and K-means clustering.
 - In addition, I have experience analyzing images, time-series, and text data using neural networks such as MLPs, CNNs, RNNs, and Autoencoders.
+- I have completed a Natural Language Processing (NLP) project analyzing movie review data using a Lexicon-based sentiment analyzer. 
 
 ### Hobbies
 - During my free time I like to go out on hikes, take my two huskies on walks, and play sports
