@@ -34,7 +34,7 @@ learning about Machine Learning and Big Data, using tools such as Scikit-Learn, 
 
 ### Completed Projects
 - [ECG Signal Classification via Fourier Transforms](https://github.com/chantsin/ecg-classification-via-fft/tree/main)
-  - Classifying ECG signals using a deep learning model (Recurrent Neural Network or RNN) 
+  - Classifying ECG signals using deep learning models (RNN and CNN) 
   - Exploring classical ML models such as Logistic Regression using method of binning as well as deep neural networks like Autoencoders 
   - Utilizing properties of Fourier Transforms for signal denoising
 
