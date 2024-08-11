@@ -98,7 +98,7 @@ https://github.com/Ileriayo/markdown-badges
 
 ### Contact
 - 📫 For further inquiries, you can reach me through my email or LinkedIn page:
-  - Email: calvintsingshing.chan@mail.utoronto.ca
+  - Email: calvintsingshing.chan@gmail.com
   - LinkedIn: [linkedin.com/in/calvin-ts-chan](linkedin.com/in/calvin-ts-chan)
   - Resume: [Calvin_Chan_Resume.pdf](https://github.com/chantsin/chantsin/blob/main/Calvin_Chan_Resume.pdf)
  
