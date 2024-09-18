@@ -1,4 +1,4 @@
-## Hi there, it's Calvin and I am a Data Scientist! 📊👨‍💻🧠👨‍🔬📈  
+## Hi there, it's Calvin and I am a Data Enthusiast! 📊👨‍💻🧠👨‍🔬📈  
 
 <!--
 **chantsin/chantsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
