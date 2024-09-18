@@ -7,7 +7,7 @@
 Welcome to my GitHub repository!
 
 ### About Me
-🌱  I am a Data Scientist with a Data Science Diploma and Data Analytics Certificate from BrainStation.  
+🌱  I am a Data Analyst with a Data Science Diploma and Data Analytics Certificate from BrainStation.  
 🔭  I have a specialist background in Physics & Astrophysics from the University of Toronto.  
 🧐  I am a natural thinker and learner where I like to solve complex problems by looking at it from different angles.
 
