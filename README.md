@@ -70,7 +70,7 @@ https://github.com/Ileriayo/markdown-badges
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   
 ### Current Projects
-- SongScope 
+- [SongScope](https://github.com/alueddeke/songscope) 
   - Collaborating with software engineers to build a song recommendation application for users, using the Spotify API.
   - Developing mathematical techniques to tailor recommendations based on users recent song history and feedback system. 
   - Implementing algorithms in Python to adjust song feature weights according to user preference.
@@ -79,17 +79,17 @@ https://github.com/Ileriayo/markdown-badges
   - Using machine learning techniques to develop a predictive model in Python that identifies suspicious transactions indicative of money laundering activities.
   - Leveraging PySpark to handle the large dataset for preprocessing and modeling, significantly increasing processing speed.
   - Documenting project workflow, methodologies, results, as well as version control using Git, ensuring clear understanding and reproducibility.
-  
-- [Goodreads Book Review](https://github.com/chantsin/Goodreads_Book_Reviews/tree/main)
-  - A comprehensive analysis of over 1.3 million book reviews from Goodreads
-  - Perform sentiment analysis on reviews, classifying them as positive, negative, or neutral using a variety of machine learning algorithms
-  - ML algorithms used including Decision Tree, Random Forest, and XGBoost
 
 ### Completed Projects
 - [ECG Signal Classification via Fourier Transforms](https://github.com/chantsin/ecg-classification-via-fft/tree/main)
   - Classifying ECG signals using deep learning models (RNN and CNN) 
   - Exploring classical ML models such as Logistic Regression using method of binning as well as deep neural networks like Autoencoders 
   - Utilizing properties of Fourier Transforms for signal denoising
+
+- [Goodreads Book Review](https://github.com/chantsin/Goodreads_Book_Reviews/tree/main)
+  - A comprehensive analysis of over 1.3 million book reviews from Goodreads
+  - Perform sentiment analysis on reviews, classifying them as positive, negative, or neutral using a variety of machine learning algorithms
+  - ML algorithms used including Decision Tree, Random Forest, and XGBoost
 
 - [MNIST Digit Recognizer](https://github.com/clem21chan/MNIST_Digit_Recognizer)
   - Classifying hand written digits from the MNIST dataset using various machine learning (ML) models
