@@ -73,7 +73,7 @@ https://github.com/Ileriayo/markdown-badges
 - [SongScope](https://github.com/alueddeke/songscope) 
   - Collaborating with software engineers to build a song recommendation application for users, using the Spotify API.
   - Developing mathematical techniques to tailor recommendations based on users recent song history and feedback system. 
-  - Implementing algorithms in Python to adjust song feature weights according to user preference.
+  - Implementing algorithms in Python to adjust song feature weights per user according to the user preferences in Django database.
 
 - [Anti-Money Laundering (AML) Detection](https://github.com/chantsin/anti_money_laundering_ibm)
   - Using machine learning techniques to develop a predictive model in Python that identifies suspicious transactions indicative of money laundering activities.
