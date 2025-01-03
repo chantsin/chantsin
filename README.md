@@ -86,6 +86,9 @@ https://github.com/Ileriayo/markdown-badges
   - Classifying ECG signals using deep learning models (RNN and CNN) 
   - Exploring classical ML models such as Logistic Regression using method of binning as well as deep neural networks like Autoencoders 
   - Utilizing properties of Fourier Transforms for signal denoising
+ 
+- [Biking ETL Pipeline](https://github.com/chantsin/biking_etl)
+  - An Extract-Transform-Load (ETL) pipeline that cleans and preprocesses raw data preparing it for further analysis and modelling
 
 - [Goodreads Book Review](https://github.com/chantsin/Goodreads_Book_Reviews/tree/main)
   - A comprehensive analysis of over 1.3 million book reviews from Goodreads
